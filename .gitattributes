@@ -1,0 +1,4 @@
+*.js linguist-language=javascript
+*.html linguist-language=html
+*.java linguist-language=java
+*.vue linguist-vendored=true
